@@ -1,3 +1,9 @@
+nav.navbar {
+  margin-bottom: 22px;
+}
+main div button.reset-btn {
+  margin-left: 183px !important;
+}
 .App {
   text-align: center;
 }
