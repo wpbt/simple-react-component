@@ -1,8 +1,11 @@
 # How to clone and run this app in local machine?
 
 `git clone https://github.com/wpbt/simple-react-component.git`
+
 `$cd simple-react-component`
+
 `$npm install`
+
 `$npm start`
 
 ### `npm start`
